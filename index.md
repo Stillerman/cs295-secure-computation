@@ -207,17 +207,17 @@ to attend [CS Student Research
 Day](https://www.uvm.edu/~jonaolap/csrd/2022.html) and learn about
 the awesome research being done by CS students at UVM!
 
-- If you attend **one full session** of talks (either morning or
-  afternoon, or both!), **take brief notes on the talks you hear**,
-  and **send the notes to me via email by 11:59pm on September 23**, I
-  will give **1% extra credit to your final grade in the course**
+- If you attend **two full sessions** of talks (~4 talks), **take
+  brief notes on the talks you hear**, and **send the notes to me via
+  email by 11:59pm on September 23**, I will give **1% extra credit to
+  your final grade in the course**
 
 ## Schedule
 
 Note that class will **not** be held on the following dates:
 
 - Monday, September 5 (Labor Day)
-- Friday, September 23 (please attend [CS Student Research Day](https://www.uvm.edu/~jonaolap/cs-srd/2021.html))
+- Friday, September 23 (please attend [CS Student Research Day](https://www.uvm.edu/~jonaolap/csrd/2022.html))
 - Friday, October 14 (Fall Recess)
 - November 21-25 (Thanksgiving)
 
@@ -237,7 +237,7 @@ Homework dates:
 | -----------------------------------------------------------------------------------------:            | -------- |
 | [Homework 1](https://github.com/jnear/cs295-secure-computation/blob/master/homework/CS295_HW_1.ipynb) | 9/12/22  |
 | [Homework 2](https://github.com/jnear/cs295-secure-computation/blob/master/homework/CS295_HW_2.ipynb) | 9/19/22  |
-| Homework 3                                                                                            | 9/26/22  |
+| [Homework 3](https://github.com/jnear/cs295-secure-computation/blob/master/homework/CS295_HW_3.ipynb) | 9/26/22  |
 | Homework 4                                                                                            | 10/3/22  |
 | Homework 5                                                                                            | 10/17/22 |
 | Homework 6                                                                                            | 10/24/22 |
