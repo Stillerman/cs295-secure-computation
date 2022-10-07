@@ -230,7 +230,7 @@ Important due dates:
 
 Exam dates:
 
-- Midterm exam: Wednesday, October 11, during class (Marsh Life Science 105)
+- Midterm exam: Wednesday, October 12, during class (Marsh Life Science 105)
 - Final exam: December 12, 10:30am - 11:30am (Marsh Life Science 105)
 
 Homework dates:
@@ -241,7 +241,7 @@ Homework dates:
 | [Homework 2](https://github.com/jnear/cs295-secure-computation/blob/master/homework/CS295_HW_2.ipynb) | 9/19/22  |
 | [Homework 3](https://github.com/jnear/cs295-secure-computation/blob/master/homework/CS295_HW_3.ipynb) | 9/26/22  |
 | [Homework 4](https://github.com/jnear/cs295-secure-computation/blob/master/homework/CS295_HW_4.ipynb) | 10/3/22  |
-| Homework 5                                                                                            | 10/17/22 |
+| [Homework 5](https://github.com/jnear/cs295-secure-computation/blob/master/homework/CS295_HW_5.ipynb) | 10/17/22 |
 | Homework 6                                                                                            | 10/24/22 |
 | Homework 7                                                                                            | 10/31/22 |
 | Homework 8                                                                                            | 11/7/22  |
