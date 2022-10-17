@@ -74,7 +74,8 @@ By the end of this course, you will be able to:
   - [Download notebooks here](https://github.com/jnear/cs295-secure-computation/tree/master/homework)
   - Turn in notebook files on Blackboard
 - **Discussions** will take place on MS Teams
-- **Review Sheets** for exams will be available here (TBA)
+- **Review Sheets** for exams:
+  - [Exam 1](https://github.com/jnear/cs295-secure-computation/tree/master/resources/review-exam1.md)
 
 ## Textbook & Other References
 
@@ -242,7 +243,7 @@ Homework dates:
 | [Homework 3](https://github.com/jnear/cs295-secure-computation/blob/master/homework/CS295_HW_3.ipynb) | 9/26/22  |
 | [Homework 4](https://github.com/jnear/cs295-secure-computation/blob/master/homework/CS295_HW_4.ipynb) | 10/3/22  |
 | [Homework 5](https://github.com/jnear/cs295-secure-computation/blob/master/homework/CS295_HW_5.ipynb) | 10/17/22 |
-| Homework 6                                                                                            | 10/24/22 |
+| [Homework 6](https://github.com/jnear/cs295-secure-computation/blob/master/homework/CS295_HW_6.ipynb) | 10/24/22 |
 | Homework 7                                                                                            | 10/31/22 |
 | Homework 8                                                                                            | 11/7/22  |
 | Homework 9                                                                                            | 11/14/22 |
